@@ -223,7 +223,7 @@ Sin la dedicación y el talento de nuestro equipo, esta campaña no habría sido
     
 ---
 
-# GRACIAS POR SU TIEMPO!
+## ***GRACIAS POR SU ATENCION!***
 
 ---
 
