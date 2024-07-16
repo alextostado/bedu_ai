@@ -71,6 +71,10 @@ Ofrecer a personas mayores un camino hacia la inclusión digital y mejores oport
 - **Internet**
 - **Redes sociales**
 
+
+---
+
+
 ## Campaña de Marketing
 
 ### Correo Electrónico
