@@ -9,9 +9,13 @@
 ## Tabla de Contenidos
 
 •⁠  ⁠[Título del nivel 1](#titulo-del-nivel-1)
+
     * [Título del nivel 2](#titulo-del-nivel-2)
+
     * [Título del nivel 2](#titulo-del-nivel-2)
+    
 •⁠  ⁠[Título del nivel 1](#titulo-del-nivel-1)
+    
     * [Título del nivel 2](#titulo-del-nivel-2)
 
 ---
