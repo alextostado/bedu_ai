@@ -62,9 +62,9 @@ Nuestros cursos son ideales para ti, sin importar tu nivel de experiencia, te pe
 
 ## Capacitando a Adultos Mayores en Tecnología
 
-![Capacitacion](https://github.com/alextostado/bedu_ai/blob/main/images/capacitando_image.jpg)
-
 Ofrecer a personas mayores un camino hacia la inclusión digital y mejores oportunidades laborales. Diseñado para aquellos sin conocimientos previos en tecnología, nuestro programa les proporciona las herramientas necesarias para integrarse de manera efectiva y segura en el mundo digital.
+
+![Capacitacion](https://github.com/alextostado/bedu_ai/blob/main/images/capacitando_image.jpg)
 
 - **Computación**
 - **Microsoft Office**
