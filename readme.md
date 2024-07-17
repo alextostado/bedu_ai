@@ -25,8 +25,8 @@ En un mundo cada vez más digitalizado, la iniciativa *Conectados al Futuro* se 
 
 *En la actualidad, nuestra creciente dependencia de la tecnología ha acentuado la brecha digital.* Esto se ha convertido en una barrera significativa para la inclusión social y el acceso a oportunidades, especialmente para los adultos mayores.
 
-|⁠[!WARNING]
-|⁠Datos Alarmantes
+| ⁠[!WARNING]
+|⁠ Datos Alarmantes
 
 •⁠  ⁠*Conectividad limitada:* Solo el 10.4% de los usuarios de internet en México son personas mayores1. Esto resalta la necesidad urgente de abordar la brecha digital y garantizar que todos tengan acceso a las herramientas digitales. ([INEGI, 2023](https://www.inegi.org.mx/contenidos/saladeprensa/boletines/2024/ENDUTIH/ENDUTIH_23.pdf)).
 
