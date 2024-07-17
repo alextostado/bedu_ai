@@ -233,5 +233,5 @@ Sin la dedicación y el talento de nuestro equipo, esta campaña no habría sido
 ---
 
 ### ***ANEXOS***
-- [Presentacion completa Canva](https://www.canva.com/design/DAGK3VKISAQ/aAKN1tE_Q0jVW15bNQCa8g/edit?utm_content=DAGK3VKISAQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+- [Presentacion completa Canva](https://www.canva.com/design/DAGK3VKISAQ/2AYSEiDjHuLcmkXkHH8f_w/view?utm_content=DAGK3VKISAQ&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 -  [Evidencias de Investigacíon / Prompts](https://github.com/alextostado/bedu_ai/tree/main/evidencias)
