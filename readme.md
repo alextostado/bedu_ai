@@ -5,19 +5,27 @@
 [![Estado del Proyecto](https://img.shields.io/badge/STATUS-EN%20DESARROLLO-green)](https://shields.io/)
 
 ## Tabla de Contenidos
-- [Innovación para la Inclusión Digital de Adultos Mayores](#innovación-para-la-inclusión-digital-de-adultos-mayores)
-- [La Brecha Digital: Una Realidad Preocupante](#la-brecha-digital-una-realidad-preocupante)
-- [Conéctate al Futuro y Desbloquea Nuevas Oportunidades](#conéctate-al-futuro-y-desbloquea-nuevas-oportunidades)
-  - [Capacitando a Adultos Mayores en Tecnología](#capacitando-a-adultos-mayores-en-tecnología)
-  - [Cursos Ofrecidos](#cursos-ofrecidos)
-- [Campaña de Marketing](#campaña-de-marketing)
-  - [Correo Electrónico](#correo-electrónico)
-  - [Redes Sociales](#redes-sociales)
-  - [Anuncios de Revista Digital/Google Ads](#anuncios-de-revista-digital-google-ads)
+
+1. [Innovación para la Inclusión Digital de Adultos Mayores](#innovación-para-la-inclusión-digital-de-adultos-mayores)
+2. [La Brecha Digital: Una Realidad Preocupante](#la-brecha-digital-una-realidad-preocupante)
+3. [Conéctate al Futuro y Desbloquea Nuevas Oportunidades](#conéctate-al-futuro-y-desbloquea-nuevas-oportunidades)
+   - [Capacitando a Adultos Mayores en Tecnología](#capacitando-a-adultos-mayores-en-tecnología)
+   - [Cursos Ofrecidos](#cursos-ofrecidos)
+4. [Campaña de Marketing](#campaña-de-marketing)
+   - [Correo Electrónico](#correo-electrónico)
+   - [Redes Sociales](#redes-sociales)
+   - [Anuncios de Revista Digital/Google Ads](#anuncios-de-revista-digitalgoogle-ads)
+5. [Nuestro Equipo](#nuestro-equipo)
+6. [Agradecimientos](#agradecimientos)
+7. [Anexos](#anexos)
+   - [Presentación](#presentación)
+   - [Evidencias de Investigación](#evidencias-de-investigación)
+
+---
 
 ## Innovación para la Inclusión Digital de Adultos Mayores
 
-En un mundo cada vez más digitalizado, la iniciativa *Conectados al Futuro* se propone cerrar la brecha tecnológica en la población de adultos mayores. **¿Cómo?** Brindándoles las herramientas y habilidades esenciales para su inclusión social y acceso a nuevas oportunidades.
+En un mundo cada vez más digitalizado, la iniciativa **Conectados al Futuro** se propone cerrar la brecha tecnológica en la población de adultos mayores. **¿Cómo?** Brindándoles las herramientas y habilidades esenciales para su inclusión social y acceso a nuevas oportunidades.
 
 ## La Brecha Digital: Una Realidad Preocupante
 
@@ -31,12 +39,12 @@ En un mundo cada vez más digitalizado, la iniciativa *Conectados al Futuro* se 
 ![Datos Alarmantes](https://github.com/user-attachments/assets/d044dfd6-1827-4600-b550-6020d6179b17)
 
 <div align="center">
-  <table>
-    <tr>
-      <td><img src="https://github.com/user-attachments/assets/440b54f7-26fa-4ddc-9e0d-4a540677cc2b" alt="Brecha Digital_1"></td>
-      <td><img src="https://github.com/user-attachments/assets/a937c31e-4d7e-4f44-b186-4b08e08a6014" alt="Brecha Digital_2"></td>
-    </tr>
-  </table>
+<table>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/440b54f7-26fa-4ddc-9e0d-4a540677cc2b" alt="Brecha Digital 1"></td>
+    <td><img src="https://github.com/user-attachments/assets/a937c31e-4d7e-4f44-b186-4b08e08a6014" alt="Brecha Digital 2"></td>
+  </tr>
+</table>
 </div>
 
 ## Conéctate al Futuro y Desbloquea Nuevas Oportunidades
@@ -59,23 +67,23 @@ Ofrecemos a las personas mayores un camino hacia la inclusión digital y mejores
 - **Redes Sociales**
 
 <div align="center">
-  <table>
-    <tr>
-      <td><img src="https://github.com/user-attachments/assets/35123b58-2369-4702-a380-03b7edb17d2f" alt="Adultos Mayores"></td>
-      <td><img src="https://github.com/user-attachments/assets/9ad00e55-002a-4a41-a098-45e3b7c8933f" alt="Adultos Mayores en Tecnología"></td>
-    </tr>
-  </table>
+<table>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/35123b58-2369-4702-a380-03b7edb17d2f" alt="Adultos Mayores"></td>
+    <td><img src="https://github.com/user-attachments/assets/9ad00e55-002a-4a41-a098-45e3b7c8933f" alt="Adultos Mayores en Tecnología"></td>
+  </tr>
+</table>
 </div>
 
-# Campaña de Marketing
+## Campaña de Marketing
 
-## Correo Electrónico
+### Correo Electrónico
 
 #### Asunto: ¡Actualiza tus habilidades tecnológicas con nuestro curso especial para adultos mayores de 40 años!
 
 **¡Hola Ignacio Financiero!**
 
-¿Estás listo para aprender nuevas habilidades tecnológicas y mejorar tus oportunidades laborales? 
+¿Estás listo para aprender nuevas habilidades tecnológicas y mejorar tus oportunidades laborales?  
 ¡Este es el momento perfecto para comenzar!
 
 Conectados al Futuro trae para ti un curso de tecnología diseñado especialmente para adultos mayores de 40 años.
@@ -94,7 +102,9 @@ Conectados al Futuro trae para ti un curso de tecnología diseñado especialment
 #### ¿Por qué tomar este curso?
 
 - **Actualiza tus habilidades:** Adquiere conocimientos prácticos que te harán más competitivo en el mercado laboral.
-- **Contenido accesible y práctico:** Nuestras lecciones están diseñadas para ser fáciles de seguir y aplicar en tu día a día.
+- **Contenido accesible y
+
+práctico:** Nuestras lecciones están diseñadas para ser fáciles de seguir y aplicar en tu día a día.
 - **Mejora tus oportunidades:** Con nuevas habilidades, estarás mejor preparado para aprovechar las oportunidades que ofrece el mundo digital.
 
 ---
@@ -121,17 +131,17 @@ egonzales@conectadosalfuturo.com.mx
 
 ---
 
-## Redes Sociales
+### Redes Sociales
 
-### Publicaciones en Facebook
+#### Publicaciones en Facebook
 
-#### Copy Interno
+##### Copy Interno
 
 ¿Tienes 40 años o más? ¡Este es el momento para actualizar tus habilidades tecnológicas! Aprende Word, Excel, internet y redes sociales desde cero con nuestros cursos prácticos y gratuitos.
 
 ¡Conéctate al futuro con nuestra formación en tecnología!
 
-#### Copy Externo con Hashtags
+##### Copy Externo con Hashtags
 
 ¿Tienes 40 años o más? ¡Este es el momento para actualizar tus habilidades tecnológicas! Aprende Word, Excel, internet y redes sociales desde cero con nuestros cursos prácticos y gratuitos.
 
@@ -158,34 +168,27 @@ egonzales@conectadosalfuturo.com.mx
 *¡No te quedes atrás!*
 
 <div align="center">
-  <table>
-    <tr>
-      <td><img src="https://github.com/alextostado/bedu_ai/blob/main/images/PUBLICACIO%CC%81N%20FACEBOOK.png" alt="Publicación FB_1"></td>
-      <td><img src="https://github.com/alextostado/bedu_ai/blob/main/images/PostFbCurso_2.png" alt="Mock FB_1"></td>
-    </tr>
-  </table>
+<table>
+  <tr>
+    <td><img src="https://github.com/alextostado/bedu_ai/blob/main/images/PUBLICACIO%CC%81N%20FACEBOOK.png" alt="Publicación FB_1"></td>
+    <td><img src="https://github.com/alextostado/bedu_ai/blob/main/images/PostFbCurso_2.png" alt="Mock FB_1"></td>
+  </tr>
+</table>
 </div>
 <div align="center">
-  <table>
-    <tr>
-      <td><img src="https://github.com/alextostado/bedu_ai/blob/main/images/Sin%20costo.jpg" alt="Publicación FB_2"></td>
-      <td><img src="https://github.com/alextostado/bedu_ai/blob/main/images/PostFbCurso.png" alt="Mock FB_2"></td>
-    </tr>
-  </table>
+<table>
+  <tr>
+    <td><img src="https://github.com/alextostado/bedu_ai/blob/main/images/Sin%20costo.jpg" alt="Publicación FB_2"></td>
+    <td><img src="https://github.com/alextostado/bedu_ai/blob/main/images/PostFbCurso.png" alt="Mock FB_2"></td>
+  </tr>
+</table>
 </div>
-
-### Beneficios
-
-- **Cursos gratuitos y prácticos.**
-- **Mejora tus habilidades tecnológicas.**
-- **Accede a nuevas oportunidades laborales.**
-- **Conéctate con familiares y amigos en línea.**
 
 ---
 
 ## Anuncios de Revista Digital/Google Ads
 
-<div style="text-align: center;">
+<div align="center">
   <table>
     <tr>
       <td><img src="https://github.com/alextostado/bedu_ai/blob/main/images/anuncio-revista-01.jpg" alt="Anuncio Revista Digital"></td>
@@ -198,38 +201,51 @@ egonzales@conectadosalfuturo.com.mx
   </table>
 </div>
 
-Mediante la combinación de canales digitales y tradicionales, buscamos maximizar nuestra visibilidad y llegar eficazmente a nuestro público objetivo.
+### Maximizando Visibilidad con Diversos Canales
 
-### Canales Utilizados
-- **Anuncios en Redes Sociales y Buscadores:** Nos permiten alcanzar a una amplia audiencia de adultos mayores de 40 años.
-- **Anuncios en Revistas Digitales:** Incluimos anuncios publicitarios bien diseñados y estratégicamente ubicados para lograrlo.
+Para alcanzar eficazmente a nuestro público objetivo de adultos mayores de 40 años, hemos combinado estratégicamente canales digitales y tradicionales:
 
-Con esta estrategia, aspiramos a atraer a una gran cantidad de adultos mayores de 40 años a nuestros cursos gratuitos de tecnología, ayudándoles a fortalecer sus habilidades digitales y adaptarse mejor al entorno digital actual.
+- **Anuncios en Redes Sociales y Buscadores:** Amplia cobertura digital para llegar a una audiencia diversa.
+- **Anuncios en Revistas Digitales:** Diseños impactantes y bien ubicados para captar la atención de nuestro público objetivo.
 
----
+Con esta estrategia integral, buscamos atraer a más adultos mayores a nuestros cursos gratuitos de tecnología, empoderándolos con habilidades digitales esenciales para el mundo actual.
 
 ## Nuestro Equipo
 
-Sin la dedicación y el talento de nuestro equipo, esta campaña no habría sido posible. Cada miembro ha aportado su experiencia y pasión para hacer de **Conectados al Futuro** una realidad.
+¡Detrás de *Conectados al Futuro* hay un equipo apasionado y talentoso! Cada miembro aporta su experiencia y dedicación para hacer de esta iniciativa un éxito.
 
-- **Samantha Munguía**
-  - CHIEF MARKETING OFFICER (CMO)
-  
-- **Eduardo González**
-  - CHIEF PRODUCT OFFICER (CPO)
-  
-- **Alejandro Tostado**
-  - MARKETING MANAGER
- 
-- **Conchita Alvarado**
-  - DIGITAL DESIGNER
-    
----
-
-## ***GRACIAS POR SU ATENCION!***
+| **Nombre** | **Cargo** | **Descripción** | **Redes Sociales** |
+|------------|-----------|-----------------|--------------------|
+| [Samantha Munguía](https://www.linkedin.com/in/samanthamunguia/) | CMO | Conecta personas con tecnología y lidera la estrategia de marketing. | [LinkedIn](https://www.linkedin.com/in/samanthamunguia/) |
+| [Eduardo González](https://www.linkedin.com/in/eduardogonzalez/) | CPO | Mejora vidas a través de la tecnología y lidera la creación de la plataforma. | [LinkedIn](https://www.linkedin.com/in/eduardogonzalez/) |
+| [Alejandro Tostado](https://www.linkedin.com/in/alejandrotostado/) | Marketing Manager | Desarrolla y ejecuta campañas de marketing digital. | [LinkedIn](https://www.linkedin.com/in/alejandrotostado/) |
+| [Conchita Alvarado](https://www.linkedin.com/in/conchitaalvarado/) | Digital Designer | Diseña la interfaz y experiencia de usuario. | [LinkedIn](https://www.linkedin.com/in/conchitaalvarado/) |
 
 ---
 
-### ***ANEXOS***
-- [Presentacion completa Canva](https://www.canva.com/design/DAGK3VKISAQ/2AYSEiDjHuLcmkXkHH8f_w/view?utm_content=DAGK3VKISAQ&utm_campaign=designshare&utm_medium=link&utm_source=editor)
--  [Evidencias de Investigacíon / Prompts](https://github.com/alextostado/bedu_ai/tree/main/evidencias)
+## Agradecimientos
+
+Gracias por tu atención y por interesarte en *Conectados al Futuro*. A través de la diversidad de habilidades y perspectivas de nuestro equipo, nos comprometemos a seguir innovando y creando un futuro conectado que beneficie a todos.
+
+**¿Te interesa saber más sobre *Conectados al Futuro*?**
+
+* Visita nuestro sitio web: [www.conectadosalfuturo.com.mx](http://www.conectadosalfuturo.com.mx)
+
+**No dudes en contactarnos:**
+
+* Correo electrónico: [aprendizdigital@conectadosalfuturo.org](mailto:aprendizdigital@conectadosalfuturo.org)
+* Teléfono: +52 55 1234 5678
+
+***¡Esperamos seguir conectándote al futuro!***
+
+---
+
+## **Anexos**
+
+### Presentación
+- 🖼️ **Descripción:** Accede a la presentación completa de ***Conectados al Futuro*** diseñada en Canva, que detalla nuestra visión, estrategias y objetivos clave.
+  - [Ver presentación completa en Canva](https://www.canva.com/design/DAGK3VKISAQ/2AYSEiDjHuLcmkXkHH8f_w/view?utm_content=DAGK3VKISAQ&utm_campaign=designshare&utm_medium=link&utm_source=editor)
+
+### Evidencias de Investigación
+- 📂 **Descripción:** Explora las evidencias recopiladas durante la investigación, incluyendo prompts, scripts y datos relevantes para el proyecto ***Conectados al Futuro***.
+  - [Ver evidencias en GitHub](https://github.com/alextostado/bedu_ai/tree/main/evidencias)
