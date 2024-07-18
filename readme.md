@@ -25,6 +25,8 @@ En un mundo cada vez más digitalizado, la iniciativa *Conectados al Futuro* se 
   
 - **Impacto de la Pandemia:** Durante la pandemia, el 30% de los adultos mayores experimentó dificultades con actividades cotidianas que requieren acceso en línea. Esto incluye tareas como comunicarse con familiares, acceder a servicios de salud y participar en actividades sociales. *([INEGI, 2024](https://www.inegi.org.mx/contenidos/saladeprensa/boletines/2024/ENDUTIH/ENDUTIH_23.pdf))*
 
+![Datos Alarmantes](https://github.com/user-attachments/assets/d044dfd6-1827-4600-b550-6020d6179b17)
+
 <div style="text-align: center;">
   <table>
     <tr>
@@ -38,11 +40,9 @@ En un mundo cada vez más digitalizado, la iniciativa *Conectados al Futuro* se 
   </table>
 </div>
 
-![Datos Alarmantes](https://github.com/user-attachments/assets/d044dfd6-1827-4600-b550-6020d6179b17)
+## Conéctate al Futuro y Desbloquea Nuevas Oportunidades
 
-# Conéctate al Futuro y Desbloquea Nuevas Oportunidades
-
-## *¿Quieres ser parte de la revolución digital?*
+![Llamda de Acción](https://github.com/user-attachments/assets/bd0e9bdf-583b-4c9c-a929-4ca17a24d01d)
 
 ### Explora la Era Digital sin Miedos
 
