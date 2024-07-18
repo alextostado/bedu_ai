@@ -7,6 +7,9 @@
 ## Tabla de Contenidos
 - [Innovación para la Inclusión Digital de Adultos Mayores](#innovación-para-la-inclusión-digital-de-adultos-mayores)
 - [La Brecha Digital: Una Realidad Preocupante](#la-brecha-digital-una-realidad-preocupante)
+- [Conéctate al Futuro y Desbloquea Nuevas Oportunidades](#conéctate-al-futuro-y-desbloquea-nuevas-oportunidades)
+  - [Capacitando a Adultos Mayores en Tecnología](#capacitando-a-adultos-mayores-en-tecnología)
+  - [Cursos Ofrecidos](#cursos-ofrecidos)
 
 ## Innovación para la Inclusión Digital de Adultos Mayores
 
@@ -35,45 +38,41 @@ En un mundo cada vez más digitalizado, la iniciativa *Conectados al Futuro* se 
   </table>
 </div>
 
+![Datos Alarmantes](https://github.com/user-attachments/assets/d044dfd6-1827-4600-b550-6020d6179b17)
+
+# Conéctate al Futuro y Desbloquea Nuevas Oportunidades
+
+## *¿Quieres ser parte de la revolución digital?*
+
+### Explora la Era Digital sin Miedos
+
+Nuestros cursos están diseñados para ti, sin importar tu nivel de experiencia. Adquiere habilidades tecnológicas esenciales de forma práctica y accesible.
+
+## Capacitando a Adultos Mayores en Tecnología
+
+Ofrecemos a las personas mayores un camino hacia la inclusión digital y mejores oportunidades laborales. Nuestro programa está diseñado para aquellos sin conocimientos previos en tecnología, proporcionándoles las herramientas necesarias para integrarse de manera efectiva y segura en el mundo digital.
+
+### Cursos Ofrecidos
+
+- **Computación**
+- **Microsoft Office**
+- **Internet**
+- **Redes Sociales**
+
 <div style="text-align: center;">
   <table>
     <tr>
       <td>
-        <img src="https://github.com/alextostado/bedu_ai/blob/main/images/estadisticas_image.jpg" alt="Distribucion de usuarios">
+        <img src="https://github.com/user-attachments/assets/35123b58-2369-4702-a380-03b7edb17d2f" alt="Adultos Mayores">
       </td>
       <td>
-        <img src="https://github.com/alextostado/bedu_ai/blob/main/images/distribucion_usuarios_image.jpg" alt="estadisticas">
+        <img src="https://github.com/user-attachments/assets/9ad00e55-002a-4a41-a098-45e3b7c8933f" alt="Adultos Mayores en Tecnología">
       </td>
     </tr>
   </table>
 </div>
 
-
 ---
-
-
-## Conéctate al Futuro y desbloquea nuevas oportunidades
-
-### *¿Quieres ser parte de la revolución digital?*
-
-### Explora la Era Digital sin Miedos
-
-Nuestros cursos son ideales para ti, sin importar tu nivel de experiencia, te permitirán adquirir habilidades tecnológicas esenciales de forma práctica y accesible.
-
-## Capacitando a Adultos Mayores en Tecnología
-
-Ofrecer a personas mayores un camino hacia la inclusión digital y mejores oportunidades laborales. Diseñado para aquellos sin conocimientos previos en tecnología, nuestro programa les proporciona las herramientas necesarias para integrarse de manera efectiva y segura en el mundo digital.
-
-- **Computación**
-- **Microsoft Office**
-- **Internet**
-- **Redes sociales**
-
-![Capacitacion](https://github.com/alextostado/bedu_ai/blob/main/images/capacitando_image.jpg)
-
-
----
-
 
 ## Campaña de Marketing
 
