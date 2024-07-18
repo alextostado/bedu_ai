@@ -66,9 +66,9 @@ Ofrecemos a las personas mayores un camino hacia la inclusión digital y mejores
   </table>
 </div>
 
-## Campaña de Marketing: Curso para Adultos Mayores de 40 Años
+# Campaña de Marketing: Curso para Adultos Mayores de 40 Años
 
-### Correo Electrónico
+## Correo Electrónico
 
 #### Asunto: ¡Actualiza tus habilidades tecnológicas con nuestro curso especial para adultos mayores de 40 años!
 
