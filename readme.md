@@ -188,6 +188,13 @@ egonzales@conectadosalfuturo.com.mx
 
 ## Anuncios de Revista Digital/Google Ads
 
+### Maximizando Visibilidad con Diversos Canales
+
+Para alcanzar eficazmente a nuestro público objetivo de adultos mayores de 40 años, hemos combinado estratégicamente canales digitales y tradicionales:
+
+- **Anuncios en Redes Sociales y Buscadores:** Amplia cobertura digital para llegar a una audiencia diversa.
+- **Anuncios en Revistas Digitales:** Diseños impactantes y bien ubicados para captar la atención de nuestro público objetivo.
+
 <div align="center">
   <table>
     <tr>
@@ -200,13 +207,6 @@ egonzales@conectadosalfuturo.com.mx
     </tr>
   </table>
 </div>
-
-### Maximizando Visibilidad con Diversos Canales
-
-Para alcanzar eficazmente a nuestro público objetivo de adultos mayores de 40 años, hemos combinado estratégicamente canales digitales y tradicionales:
-
-- **Anuncios en Redes Sociales y Buscadores:** Amplia cobertura digital para llegar a una audiencia diversa.
-- **Anuncios en Revistas Digitales:** Diseños impactantes y bien ubicados para captar la atención de nuestro público objetivo.
 
 Con esta estrategia integral, buscamos atraer a más adultos mayores a nuestros cursos gratuitos de tecnología, empoderándolos con habilidades digitales esenciales para el mundo actual.
 
