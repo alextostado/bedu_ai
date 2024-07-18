@@ -10,7 +10,7 @@
 - [Conéctate al Futuro y Desbloquea Nuevas Oportunidades](#conéctate-al-futuro-y-desbloquea-nuevas-oportunidades)
   - [Capacitando a Adultos Mayores en Tecnología](#capacitando-a-adultos-mayores-en-tecnología)
   - [Cursos Ofrecidos](#cursos-ofrecidos)
-- [Campaña de Marketing: Curso para Adultos Mayores de 40 Años](#campaña-de-marketing-curso-para-adultos-mayores-de-40-años)
+- [Campaña de Marketing](#campaña-de-marketing)
   - [Correo Electrónico](#correo-electrónico)
   - [Redes Sociales](#redes-sociales)
 
@@ -66,7 +66,7 @@ Ofrecemos a las personas mayores un camino hacia la inclusión digital y mejores
   </table>
 </div>
 
-# Campaña de Marketing: Curso para Adultos Mayores de 40 Años
+# Campaña de Marketing
 
 ## Correo Electrónico
 
