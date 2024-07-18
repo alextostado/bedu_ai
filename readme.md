@@ -11,7 +11,7 @@
   - [Capacitando a Adultos Mayores en Tecnología](#capacitando-a-adultos-mayores-en-tecnología)
   - [Cursos Ofrecidos](#cursos-ofrecidos)
 - [Campaña de Marketing: Curso para Adultos Mayores de 40 Años](#campaña-de-marketing-curso-para-adultos-mayores-de-40-años)
-  - [Correo Electrónico](#correo-electronico)
+  - [Correo Electrónico](#correo-electrónico)
   - [Redes Sociales](#redes-sociales)
 
 ## Innovación para la Inclusión Digital de Adultos Mayores
@@ -182,7 +182,6 @@ egonzales@conectadosalfuturo.com.mx
 
 ---
 
-Utilizando estas recomendaciones, tu README no solo será más visualmente atractivo sino también más fácil de leer y entender para los usuarios. ¡Buena suerte con tu proyecto!
 
 </div><div style="text-align: center;">
   <table>
