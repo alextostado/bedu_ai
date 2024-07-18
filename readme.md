@@ -10,6 +10,7 @@
 - [Conéctate al Futuro y Desbloquea Nuevas Oportunidades](#conéctate-al-futuro-y-desbloquea-nuevas-oportunidades)
   - [Capacitando a Adultos Mayores en Tecnología](#capacitando-a-adultos-mayores-en-tecnología)
   - [Cursos Ofrecidos](#cursos-ofrecidos)
+- [Campaña de Marketing: Curso para Adultos Mayores de 40 Años](#campaña-de-marketing-curso-para-adultos-mayores-de-40-años)
 
 ## Innovación para la Inclusión Digital de Adultos Mayores
 
@@ -20,29 +21,24 @@ En un mundo cada vez más digitalizado, la iniciativa *Conectados al Futuro* se 
 *En la actualidad, nuestra creciente dependencia de la tecnología ha acentuado la brecha digital.* Esto se ha convertido en una barrera significativa para la inclusión social y el acceso a oportunidades, especialmente para los adultos mayores.
 
 > **Datos Alarmantes**
-
-- **Conectividad Limitada:** Solo el 10.4% de los usuarios de internet en México son personas mayores. Esto resalta la necesidad urgente de abordar la brecha digital y garantizar que todos tengan acceso a las herramientas digitales. *([INEGI, 2023](https://www.inegi.org.mx/contenidos/saladeprensa/boletines/2024/ENDUTIH/ENDUTIH_23.pdf))*
-  
-- **Impacto de la Pandemia:** Durante la pandemia, el 30% de los adultos mayores experimentó dificultades con actividades cotidianas que requieren acceso en línea. Esto incluye tareas como comunicarse con familiares, acceder a servicios de salud y participar en actividades sociales. *([INEGI, 2024](https://www.inegi.org.mx/contenidos/saladeprensa/boletines/2024/ENDUTIH/ENDUTIH_23.pdf))*
+>
+> - **Conectividad Limitada:** Solo el 10.4% de los usuarios de internet en México son personas mayores. Esto resalta la necesidad urgente de abordar la brecha digital y garantizar que todos tengan acceso a las herramientas digitales. *([INEGI, 2023](https://www.inegi.org.mx/contenidos/saladeprensa/boletines/2024/ENDUTIH/ENDUTIH_23.pdf))*
+> - **Impacto de la Pandemia:** Durante la pandemia, el 30% de los adultos mayores experimentó dificultades con actividades cotidianas que requieren acceso en línea. Esto incluye tareas como comunicarse con familiares, acceder a servicios de salud y participar en actividades sociales. *([INEGI, 2024](https://www.inegi.org.mx/contenidos/saladeprensa/boletines/2024/ENDUTIH/ENDUTIH_23.pdf))*
 
 ![Datos Alarmantes](https://github.com/user-attachments/assets/d044dfd6-1827-4600-b550-6020d6179b17)
 
-<div style="text-align: center;">
+<div align="center">
   <table>
     <tr>
-      <td>
-        <img src="https://github.com/user-attachments/assets/440b54f7-26fa-4ddc-9e0d-4a540677cc2b" alt="Brecha Digital_1">
-      </td>
-      <td>
-        <img src="https://github.com/user-attachments/assets/a937c31e-4d7e-4f44-b186-4b08e08a6014" alt="Brecha Digital_2">
-      </td>
+      <td><img src="https://github.com/user-attachments/assets/440b54f7-26fa-4ddc-9e0d-4a540677cc2b" alt="Brecha Digital_1"></td>
+      <td><img src="https://github.com/user-attachments/assets/a937c31e-4d7e-4f44-b186-4b08e08a6014" alt="Brecha Digital_2"></td>
     </tr>
   </table>
 </div>
 
 ## Conéctate al Futuro y Desbloquea Nuevas Oportunidades
 
-![Llamda de Acción](https://github.com/user-attachments/assets/bd0e9bdf-583b-4c9c-a929-4ca17a24d01d)
+![Llamada de Acción](https://github.com/user-attachments/assets/bd0e9bdf-583b-4c9c-a929-4ca17a24d01d)
 
 ### Explora la Era Digital sin Miedos
 
@@ -59,73 +55,66 @@ Ofrecemos a las personas mayores un camino hacia la inclusión digital y mejores
 - **Internet**
 - **Redes Sociales**
 
-<div style="text-align: center;">
+<div align="center">
   <table>
     <tr>
-      <td>
-        <img src="https://github.com/user-attachments/assets/35123b58-2369-4702-a380-03b7edb17d2f" alt="Adultos Mayores">
-      </td>
-      <td>
-        <img src="https://github.com/user-attachments/assets/9ad00e55-002a-4a41-a098-45e3b7c8933f" alt="Adultos Mayores en Tecnología">
-      </td>
+      <td><img src="https://github.com/user-attachments/assets/35123b58-2369-4702-a380-03b7edb17d2f" alt="Adultos Mayores"></td>
+      <td><img src="https://github.com/user-attachments/assets/9ad00e55-002a-4a41-a098-45e3b7c8933f" alt="Adultos Mayores en Tecnología"></td>
     </tr>
   </table>
 </div>
 
----
+## Campaña de Marketing: Curso para Adultos Mayores de 40 Años
 
-## Campaña de Marketing
+### 📧 Correo Electrónico
 
-### Correo Electrónico
-
-Asunto: ¡Actualiza tus habilidades tecnológicas con nuestro curso especial para adultos mayores de 40 años!
+#### Asunto: ¡Actualiza tus habilidades tecnológicas con nuestro curso especial para adultos mayores de 40 años!
 
 **¡Hola Ignacio Financiero!**
 
-¿Estás listo para aprender nuevas habilidades tecnológicas y mejorar tus oportunidades laborales? 
+¿Estás listo para aprender nuevas habilidades tecnológicas y mejorar tus oportunidades laborales? 
 ¡Este es el momento perfecto para comenzar!
 
-Conectados al Futuro trae para ti un curso de tecnología diseñado especialmente para adultos mayores de 40 años. 
+Conectados al Futuro trae para ti un curso de tecnología diseñado especialmente para adultos mayores de 40 años.
 
-***¿Qué aprenderás?***
-- **Microsoft Word:** Domina la creación y edición de documentos. 
-- **Microsoft Excel:** Gestiona tus finanzas personales y laborales con hojas de cálculo.
-- **Navegación en Internet:** Explora el mundo digital de manera segura y eficiente.
-- **Redes Sociales:** Conéctate con amigos, familiares y oportunidades laborales en línea.
+---
 
-***¿Por qué tomar este curso?***
-- **Actualiza tus habilidades:** Adquiere conocimientos prácticos que te harán más competitivo en el mercado laboral.
-- **Contenido accesible y práctico:** Nuestras lecciones están diseñadas para ser fáciles de seguir y aplicar en tu día a día.
-- **Mejora tus oportunidades:** Con nuevas habilidades, estarás mejor preparado para aprovechar las oportunidades que ofrece el mundo digital.
+#### ¿Qué aprenderás?
 
-***¡Inscríbete hoy mismo!***
+- **Microsoft Word:** Domina la creación y edición de documentos.
+- **Microsoft Excel:** Gestiona tus finanzas personales y laborales con hojas de cálculo.
+- **Navegación en Internet:** Explora el mundo digital de manera segura y eficiente.
+- **Redes Sociales:** Conéctate con amigos, familiares y oportunidades laborales en línea.
 
-Responde a este correo con tu nombre, número de contacto y la razón que te motiva a integrarte a nuestros cursos. Estamos emocionados de ayudarte a dar el siguiente paso en tu desarrollo personal y profesional.
+---
 
-¡No dejes pasar esta oportunidad! Mejora tus habilidades tecnológicas y abre la puerta a nuevas posibilidades. ¡Esperamos tu respuesta!
+#### ¿Por qué tomar este curso?
+
+- **Actualiza tus habilidades:** Adquiere conocimientos prácticos que te harán más competitivo en el mercado laboral.
+- **Contenido accesible y práctico:** Nuestras lecciones están diseñadas para ser fáciles de seguir y aplicar en tu día a día.
+- **Mejora tus oportunidades:** Con nuevas habilidades, estarás mejor preparado para aprovechar las oportunidades que ofrece el mundo digital.
+
+---
+
+### **¡Inscríbete hoy mismo!**
+
+Responde a este correo con tu nombre, número de contacto y la razón que te motiva a integrarte a nuestros cursos. Estamos emocionados de ayudarte a dar el siguiente paso en tu desarrollo personal y profesional.
+
+**¡No dejes pasar esta oportunidad! Mejora tus habilidades tecnológicas y abre la puerta a nuevas posibilidades. ¡Esperamos tu respuesta!**
 
 *Saludos cordiales,*
 
-Lic. Eduardo Gonzáles López
-Academia Conectados al Futuro
+Lic. Eduardo Gonzáles López  
+Academia Conectados al Futuro  
 egonzales@conectadosalfuturo.com.mx
 
 *PD: ¡Recuerda que nunca es tarde para aprender algo nuevo!*
 
-
-
-### Formato digital diseño
-</div><div style="text-align: center;">
-  <table>
-    <tr>
-      <td><img src="https://github.com/alextostado/bedu_ai/blob/main/images/Ignacio%20Financiero.jpg" alt="Email"></td>
-    </tr>
-  </table>
-</div>
-
-
 ---
 
+<div align="center">
+  <img src="https://github.com/alextostado/bedu_ai/blob/main/images/Ignacio%20Financiero.jpg" alt="Email">
+</div>
 
 ## Redes Sociales
 
