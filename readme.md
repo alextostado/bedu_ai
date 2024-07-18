@@ -11,7 +11,6 @@
   - [Capacitando a Adultos Mayores en Tecnología](#capacitando-a-adultos-mayores-en-tecnología)
   - [Cursos Ofrecidos](#cursos-ofrecidos)
 - [Campaña de Marketing: Curso para Adultos Mayores de 40 Años](#campaña-de-marketing-curso-para-adultos-mayores-de-40-años)
-  - [Capacitando a Adultos Mayores en Tecnología](#capacitando-a-adultos-mayores-en-tecnología)
   - [Correo Electrónico](#correo-electronico)
   - [Redes Sociales](#redes-sociales)
 
