@@ -13,6 +13,7 @@
 - [Campaña de Marketing](#campaña-de-marketing)
   - [Correo Electrónico](#correo-electrónico)
   - [Redes Sociales](#redes-sociales)
+  - [Anuncios de Revista Digital/Google Ads](#anuncios-de-revista-digital-google-ads)
 
 ## Innovación para la Inclusión Digital de Adultos Mayores
 
@@ -182,49 +183,30 @@ egonzales@conectadosalfuturo.com.mx
 
 ---
 
+## Anuncios de Revista Digital/Google Ads
 
-</div><div style="text-align: center;">
+<div style="text-align: center;">
   <table>
     <tr>
-      <td><img src="https://github.com/alextostado/bedu_ai/blob/main/images/PUBLICACIO%CC%81N%20FACEBOOK.png" alt="Pubblicacion FB_1"></td>
-      <td><img src="https://github.com/alextostado/bedu_ai/blob/main/images/PostFbCurso_2.png" alt="Mock FB_1"></td>
+      <td><img src="https://github.com/alextostado/bedu_ai/blob/main/images/anuncio-revista-01.jpg" alt="Anuncio Revista Digital"></td>
+      <td><img src="https://github.com/alextostado/bedu_ai/blob/main/images/anuncio-revista-02.jpg" alt="Anuncio Revista Digital"></td>
     </tr>
-  </table>
-</div>
-</div><div style="text-align: center;">
-  <table>
     <tr>
-      <td><img src="https://github.com/alextostado/bedu_ai/blob/main/images/Sin%20costo.jpg" alt="Pubblicacion FB_2"></td>
-      <td><img src="https://github.com/alextostado/bedu_ai/blob/main/images/PostFbCurso.png" alt="Mock FB_2"></td>
-    </tr>
-  </table>
-</div>
-
-
----
-
-
-## Anuncios de revista Digital / Google Ads
-</div><div style="text-align: center;">
-  <table>
-    <tr>
-      <td><img src="https://github.com/alextostado/bedu_ai/blob/main/images/anuncio-revista-01.jpg" alt="Anuncio Revisa Digital"></td>
-      <td><img src="https://github.com/alextostado/bedu_ai/blob/main/images/anuncio-revista-02.jpg" alt="Anuncio Revisa Digital"></td>
-    </tr>
-  </table>
-</div>
-</div><div style="text-align: center;">
-  <table>
-    <tr>
-      <td><img src="https://github.com/alextostado/bedu_ai/blob/main/images/anuncio-revista-03.jpg" alt="Anuncio Revisa Digital"></td>
+      <td><img src="https://github.com/alextostado/bedu_ai/blob/main/images/anuncio-revista-03.jpg" alt="Anuncio Revista Digital"></td>
       <td><img src="https://github.com/alextostado/bedu_ai/blob/main/images/DemoAds.png" alt="Google Ads"></td>
     </tr>
   </table>
 </div>
 
+Mediante la combinación de canales digitales y tradicionales, buscamos maximizar nuestra visibilidad y llegar eficazmente a nuestro público objetivo.
+
+### Canales Utilizados
+- **Anuncios en Redes Sociales y Buscadores:** Nos permiten alcanzar a una amplia audiencia de adultos mayores de 40 años.
+- **Anuncios en Revistas Digitales:** Incluimos anuncios publicitarios bien diseñados y estratégicamente ubicados para lograrlo.
+
+Con esta estrategia, aspiramos a atraer a una gran cantidad de adultos mayores de 40 años a nuestros cursos gratuitos de tecnología, ayudándoles a fortalecer sus habilidades digitales y adaptarse mejor al entorno digital actual.
 
 ---
-
 
 ## Nuestro Equipo
 
