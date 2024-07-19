@@ -217,9 +217,9 @@ Con esta estrategia integral, buscamos atraer a más adultos mayores a nuestros 
 | **Nombre** | **Cargo** | **Descripción** | **Redes Sociales** |
 |------------|-----------|-----------------|--------------------|
 | [Samantha Munguía](https://www.linkedin.com/in/samanthamunguia/) | CMO | Conecta personas con tecnología y lidera la estrategia de marketing. | [LinkedIn](https://www.linkedin.com/in/samanthamunguia/) |
-| [Eduardo González](https://www.linkedin.com/in/eduardogonzalez/) | CPO | Mejora vidas a través de la tecnología y lidera la creación de la plataforma. | [LinkedIn](https://www.linkedin.com/in/eduardogonzalez/) |
+| [Eduardo González](https://www.linkedin.com/in/edgonz) | CPO | Mejora vidas a través de la tecnología y lidera la creación de la plataforma. | [LinkedIn](https://www.linkedin.com/in/edgonz) |
 | [Alejandro Tostado](https://www.linkedin.com/in/alextostado/) | Marketing Manager | Desarrolla y ejecuta campañas de marketing digital. | [LinkedIn](https://www.linkedin.com/in/alextostado/) |
-| [Conchita Alvarado](https://www.linkedin.com/in/conchitaalvarado/) | Digital Designer | Diseña la interfaz y experiencia de usuario. | [LinkedIn](https://www.linkedin.com/in/conchitaalvarado/) |
+| [Conchita Alvarado](https://mx.linkedin.com/in/conchitaae) | Digital Designer | Diseña la interfaz y experiencia de usuario. | [LinkedIn](https://mx.linkedin.com/in/conchitaae) |
 
 ---
 
